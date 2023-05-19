@@ -31,3 +31,21 @@ footer p {
     text-align: center;
 }
 
+
+@media screen and (min-width: 320px) {
+    body {
+        background-color: aqua;
+    }
+}
+
+@media screen and (min-width: 480px) {
+        body {
+            background-color: orange;
+        }
+} 
+
+@media screen and (min-width: 520px) {
+        body {
+            background-color: blueviolet;
+        }
+}
